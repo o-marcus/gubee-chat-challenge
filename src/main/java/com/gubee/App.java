@@ -1,4 +1,4 @@
-package br.com.gubee;
+package com.gubee;
 
 /**
  * Hello world!
